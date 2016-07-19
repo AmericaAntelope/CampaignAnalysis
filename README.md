@@ -1,2 +1,2 @@
-# CampaignAnalysis
-2016 US president campaign raw analysis
+# PythonLearning
+Group bunch of python learning excersice
